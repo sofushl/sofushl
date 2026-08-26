@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sofus Lind 👋
+
+![Top Languages](https://ghstats.dev/api/langs?username=sofushl&hide_border=true)
 
 ### Languages
 ![TypeScript, JavaScript, Nix, Java, Python, Rust](https://skillicons.dev/icons?i=ts,js,nix,java,py,rust)
