@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Languages
-[![Nix, TypeScript, Java, Python, JavaScript, Rust](https://skillicons.dev/icons?i=nix,ts,java,py,js,rust)]
+![Nix, TypeScript, Java, Python, JavaScript, Rust](https://skillicons.dev/icons?i=nix,ts,java,py,js,rust)
 
 ### Tech stack
-[![Neovim, Linux, Git, Bash, npm, Postman, Git, Maven, Nginx, Tailwind, React, Webassembly, Discordjs](https://skillicons.dev/icons?i=neovim,linux,git,bash,npm,postman,git,maven,nginx,tailwind,react,wasm,djs)]
+![Neovim, Linux, Git, Bash, npm, Postman, Git, Maven, Nginx, Tailwind, React, Webassembly, Discordjs](https://skillicons.dev/icons?i=neovim,linux,git,bash,npm,postman,git,maven,nginx,tailwind,react,wasm,djs)
 
 
 - 🔭 I’m currently working on Jfrog Artifactory based firmware searching and downloading system for Nordic Semiconductors nRF Connect for Desktop apps
