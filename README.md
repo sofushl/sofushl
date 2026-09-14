@@ -1,6 +1,6 @@
 ## Hi there, I'm Sofus Lind 👋
 
-![Top Languages](https://ghstats.dev/api/langs?username=sofushl&hide_border=true)
+![Top Languages](https://ghstats.dev/api/langs?username=sofushl&layout=horizontal_list)
 
 ### 💻 Tech stack
 ![Neovim, Linux, Nix, npm, Postman, Java, Maven, Python, Raspberrypi, TypeScript, JavaScript, Tailwind, React, Rust, Webassembly](https://skillicons.dev/icons?i=neovim,linux,nix,java,maven,py,raspberrypi,npm,ts,js,tailwind,react,rust,wasm,postman)
