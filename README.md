@@ -6,33 +6,25 @@
   <a href="https://discord.com/users/447393541828902913/"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
-<p align="center">
-  <a href="https://sofus.privatedns.org"><img src="https://img.shields.io/badge/Portfolio-Webpage-0A0A0A?style=flat-square&logo=vite&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/sofuslind/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=meta&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/447393541828902913/"><img src="https://img.shields.io/badge/Discord-Message-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
 <table>
   <tr>
-    <td width="50%">
-<picture width="100%">
+    
+  <td width="50%">
+  <picture width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=sofushl&hide_border=true&hide_title=true&hide=grade%2Cstars%2Cstreak%2Ccommits%2Cprs%2Cissues%2Cavg%2Cactive_day&order=contributions%2Chours%2Cweek%2Ctrend%2Crepos%2Cfollowers" />
     <img src="https://ghstats.dev/api/card?username=sofushl&hide_border=true&hide_title=true&hide=grade%2Cstars%2Cstreak%2Ccommits%2Cprs%2Cissues%2Cavg%2Cactive_day&order=contributions%2Chours%2Cweek%2Ctrend%2Crepos%2Cfollowers&theme=light" alt="Stats card" />
-  </picture>
-      
+  </picture>  
   </td>
-    <td width="50%">
+  
+  <td width="50%">
  <picture width="100%">
     <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&hide_title=true&layout=grid" />
     <img src="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&layout=grid&theme=light" alt="Top Languages" />
-  </picture>
-    
+  </picture>   
   </td>
+  
   </tr>
 </table>
-   
- 
-
 
 ### 🛠️ Tech stack
 
