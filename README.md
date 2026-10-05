@@ -7,13 +7,15 @@
 </p>
 <p align="center">
   </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&layout=horizontal_list&theme=default" />
-    <img src="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&layout=horizontal_list&theme=light" alt="Top Languages" />
+   <picture width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/card?username=sofushl&hide_border=true&hide_title=true&hide=grade%2Cstars%2Cstreak%2Ccommits%2Cprs%2Cissues%2Cavg%2Cactive_day&order=contributions%2Chours%2Cweek%2Ctrend%2Crepos%2Cfollowers" />
+    <img src="https://ghstats.dev/api/card?username=sofushl&hide_border=true&hide_title=true&hide=grade%2Cstars%2Cstreak%2Ccommits%2Cprs%2Cissues%2Cavg%2Cactive_day&order=contributions%2Chours%2Cweek%2Ctrend%2Crepos%2Cfollowers&theme=light" alt="Stats card" />
   </picture>
-</p>
+  <picture width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&hide_title=true&layout=grid" />
+    <img src="https://ghstats.dev/api/langs?username=sofushl&hide_border=true&layout=grid&theme=light" alt="Top Languages" />
+  </picture>
+
 
 ### 🛠️ Tech stack
 
