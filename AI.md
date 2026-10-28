@@ -1,4 +1,4 @@
-# AI tool usage
+****# AI tool usage
 
 This was written by hand.
 
@@ -6,6 +6,7 @@ This was written by hand.
 
 ### Platforms
 
+- OpenCode with NTNU hosting
 - Claude code and web
 - Cursor agent
 - ChatGPT web
@@ -15,13 +16,14 @@ This was written by hand.
 
 Usually latest versions, but as of writing I am using: (depending on context, project and tool)
 
-1. Claude Sonnet 5.5
-2. Claude Haiku 5.5
-3. Claude Opus 5.5
-4. Grok 4.6
-5. Grok 4.7
-6. GPT-Live-1.1 Quip
-7. GPT-6 Luna
+- GLM-5.3 NVFP4
+- Claude Sonnet 5.5
+- Claude Haiku 5.5
+- Claude Opus 5.5
+- Grok 4.6
+- Grok 4.7
+- GPT-Live-1.1 Quip
+- GPT-6 Luna
 
 The above list contains the models I consciously use on a somewhat regular basis at the time of writing, ranked somewhat by usage amount.
 The models I use at any exact moment mostly depend on what the platforms mentioned above provide at said given moment.
@@ -41,7 +43,7 @@ The presence of documentation always depends on the project, minor projects may 
 `"Partially" AI coded`: AI generated code is only used when necessary, and thoroughly reviewed and tested before use.
 Code is still written by hand, and AI inclusions are used when it makes sense.
 
-`AI "assisted"`: AI generated code is at WORST copied after very thorough and careful review and testing, however the workflow is mainly using AI for boilerplating, review, explanations, examples, etc. 
+`AI "assisted"`: AI generated code is at WORST copied after very thorough and careful review and testing, however the workflow is mainly using AI for commit writing, boilerplating, review, explanations, examples, etc. 
 Anything that is not logic executing code, can be AI generated.
 
 `AI "tutored"`: AI never knows what exactly is being made, it is used to find methods and tools, or explain concepts.
