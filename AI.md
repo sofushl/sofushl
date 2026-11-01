@@ -55,13 +55,13 @@ If AI is used at all, then it NEVER generates code and is only a pointer in the 
 
 ### Documentation methods
 
-#### Model commit authoring:
+#### Model commit authoring (avoided):
 Fully `vibe` coding, maybe slightly irresponsible `agentic` coding
 
-#### Model co-authoring commit:
+#### Model co-authoring commit (avoided):
 Anything from severly AI `assisted` to `vibe` coding
 
-#### Mention in comments or README:
+#### Mention or description of use in comments, commits or README (primary documentation format):
 Sometimes implicit or specified AI use degree, often thoroughly reviewed, that means AI `assisted` or worse.
 
 ### Mentality/Goal
