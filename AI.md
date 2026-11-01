@@ -1,4 +1,4 @@
-****# AI tool usage
+# AI tool usage
 
 This was written by hand.
 
